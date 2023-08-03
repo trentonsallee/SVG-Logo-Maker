@@ -1,0 +1,24 @@
+{
+  "name": "SVG-Logo-Maker",
+  "version": "1.0.0",
+  "description": "A logo is made by altering a constructor with user Prompt.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0",
+    "prettier": "^3.0.0"
+  },
+  "author": "Trenton Sallee",
+  "license": "",
+  "homepage": ""
+}
