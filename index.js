@@ -1,2 +1,2 @@
-const Preguntas = require('./lib/cli');
-new Preguntas().run();
+const cli = require('./lib/cli');
+new CLI().run();
