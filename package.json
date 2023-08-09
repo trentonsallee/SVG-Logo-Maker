@@ -1,5 +1,5 @@
 {
-  "name": "SVG-Logo-Maker",
+  "name": "SVGLogoMaker",
   "version": "1.0.0",
   "description": "A logo is made by altering a constructor with user Prompt.",
   "main": "index.js",
